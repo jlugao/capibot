@@ -1,0 +1,55 @@
+- keywords: canal
+  flags: ["default",]
+  text: ["Nosso canal de avisos no telegram é https://t.me/capivarinhas"]
+- keywords: discord
+  flags: ["default",]
+  text: ["Junte-se a nós no nosso discord https://discord.gg/XG2JWRTX"]
+- keywords: pomodoro
+  flags: ["default",]
+  text: ['Estamos fazendo um pomodorinho, se estivermos no modo "trabalho" estou mutado, mas de vez em quando olho o chat. Se estiver no modo Pausa aí to liberado pra papear e bagunçar com o chat. O Nosso pomodoro é de 40 min de trabalho, 20 min de pausa e a cada 3 pomodoros temos uma pausa de 20 min.']
+
+- keywords: orcololo, primeiro_sub
+  flags: ["baguncinha", "barulho"]
+  tts: ["Orcololo foi o primeiro sub do canal"]
+  text: ["O primeiro sub do canal foi do Orcololo"]
+- keywords: cammis
+  flags: ["baguncinha", "barulho"]
+  tts: ["Cammis rainha da twitch"]
+- keywords: capelas
+  flags: ["baguncinha", "barulho"]
+  tts: ["epiglote"]
+- keywords: capelonipv
+  flags: ["baguncinha", "barulho"]
+  tts: ["Capeloni Privada"]
+  text: ["Capelas é um istrimi foda. Sigam https://www.twitch.tv/capelonipv"]
+- keywords: gmourap
+  flags: ["baguncinha", "barulho"]
+  tts: ["Moura foi comer cenoura"]
+- keywords: haglarrr
+  flags: ["baguncinha", "barulho"]
+  tts: ["Arrrrrr eu sou Haglar o Bárbaro"] 
+- keywords: mahougab
+  flags: ["baguncinha", "barulho"]
+  tts: ["Sim salabim é a gabin"] 
+- keywords: newggate
+  flags: ["baguncinha", "barulho"]
+  tts: ["Ovo abri os portão tudo"] 
+- keywords: iryiella
+  flags: ["baguncinha", "barulho"]
+  tts: ["Inhame, Inhameleca, Inhamelão, Inhamastê"]
+  text: ["Inhame além de mod aqui no canal é uma istrimi foda. Sigam https://www.twitch.tv/iryiella"]
+- keywords: luciano_ratamero
+  flags: ["baguncinha", "barulho"]
+  tts: ["Ele curte javascript mas é meu amigo"]
+  text: ["O Ratamero é um istrimi foda. Sigam https://www.twitch.tv/luciano_ratamero"]
+- keywords: dolaski
+  flags: ["baguncinha", "barulho"]
+  tts: ["Dolaski mama"]
+  text: ["O Dolaski é um istrimi foda. Sigam https://www.twitch.tv/dolaski"]
+- keywords: saliente
+  flags: ["baguncinha", "barulho"]
+  tts: ["bot bot botzinho saliente"]
+- keywords: cicloopevesgo
+  flags: ["baguncinha", "barulho"]
+  tts: ["O excelentissimo senhor Francisco Vesgoncio Lopes está todo nicolas Queijezinho"]
+  text: ["O CicloopeVesgo além de mod aqui no canal é um istrimi foda. Sigam https://www.twitch.tv/cicloopevesgo"]
